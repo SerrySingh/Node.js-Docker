@@ -42,6 +42,7 @@ sudo apt install -y docker.io
 sudo docker build --tag node-docker .
 
 # Display Docker images
+
 sudo docker images
 
 # Run Docker container
